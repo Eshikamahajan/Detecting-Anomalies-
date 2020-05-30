@@ -7,14 +7,19 @@ LSTMs are explicitly designed to avoid the long-term dependency problem. Remembe
 
 
 The below figure depicts the repeating module in an LSTM containing four interacting layers.
-![LSTM working](https://colah.github.io/posts/2015-08-Understanding-LSTMs/img/LSTM3-chain.png)
+
+![](https://colah.github.io/posts/2015-08-Understanding-LSTMs/img/LSTM3-chain.png)
+
 
 # The Dataset
+The S&P 500, or simply the S&P, is a stock market index that measures the stock performance of 500 large companies listed on stock exchanges in the United States. It is one of the most commonly followed equity indices, and many consider it to be one of the best representations of the U.S. stock market.
 
+_Check out the comments in the code for more detailed explanation of code snippets_
 
-_Check out the comments in the code for more detailed explanation of code_
+_For more info on anomaly detection refer : https://www.anodot.com/blog/what-is-anomaly-detection/_
 
 _For suggestion and reviews feel free to contact me  @ eshikamahajan21@gmail.com._
+
 _Linkedin : https://www.linkedin.com/in/eshika-mahajan-774734178/ _
 
 
